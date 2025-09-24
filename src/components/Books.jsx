@@ -1,11 +1,19 @@
 import React, { use } from 'react';
+import Book from './Book';
 
 const Books = ({ booksPromises }) => {
     const books = use(booksPromises);
-    console.log(books)
+    // console.log(books)
     return (
         <div>
-            <p>Name : </p>
+            {
+                books.map((book) => {
+                    return <Book
+                        book={book}
+                        key={book.id}>
+                    </Book>
+                })
+            }
         </div>
     );
 };
