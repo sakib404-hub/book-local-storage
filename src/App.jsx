@@ -16,6 +16,9 @@ function App() {
 
   return (
     <>
+      <h2 style={{
+        textAlign: 'center'
+      }}>All The Books Are Loading</h2>
       <Suspense fallback={<Loader></Loader>}>
         <Books booksPromises={booksPromises}></Books>
       </Suspense>

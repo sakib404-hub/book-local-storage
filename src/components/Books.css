@@ -1,0 +1,34 @@
+.books_container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    padding: 10px;
+}
+.card{
+    /* border: 2px solid red; */
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+    /* box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.281); */
+}
+.card p{
+    margin: 6px 0;
+}
+.card p span {
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+.imageCard{
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+}
+.image{
+    height: 100%;
+    width: 100%;
+    /* border-radius: 10px; */
+}
