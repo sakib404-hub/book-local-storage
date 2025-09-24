@@ -1,7 +1,7 @@
 import React from 'react';
 import './Books.css'
 
-const Book = ({ book }) => {
+const Book = ({ book, handleCart }) => {
     const imgLink = book.image;
     const imgAlt = book.description;
     console.log(book)
@@ -14,6 +14,7 @@ const Book = ({ book }) => {
             <p> <span>Author</span>  : {book.author}</p>
             <p> <span>Genre</span>  : {book.genre}</p>
             <p> <span>Year</span>  : {book.year}</p>
+            <button onClick={handleCart}>Buy Now</button>
         </div>
     );
 };

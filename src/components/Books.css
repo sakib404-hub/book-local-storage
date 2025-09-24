@@ -32,3 +32,17 @@
     width: 100%;
     /* border-radius: 10px; */
 }
+
+/* Medium screens (tablets, ~768px and up) */
+@media (max-width: 992px) {
+  .books_container {
+    grid-template-columns: repeat(3, 1fr); /* 2 columns */
+  }
+}
+
+/* Small screens (phones, ~600px and down) */
+@media (max-width: 600px) {
+  .books_container {
+    grid-template-columns: 1fr; /* 1 column */
+  }
+}
