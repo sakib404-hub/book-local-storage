@@ -1,0 +1,23 @@
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: transparent;
+}
+
+/* Half-circle spinner */
+.half-loader {
+  width: 60px;
+  height: 30px; /* half height */
+  border: 6px solid transparent;
+  border-top: 6px solid red;   /* visible part */
+  border-radius: 60px 60px 0 0; /* top half circle */
+  animation: spin 1.1s linear infinite;
+  transform-origin: bottom center; /* rotate from bottom */
+}
+
+@keyframes spin {
+  0%   { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

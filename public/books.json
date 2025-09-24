@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction/Classic",
+    "year": 1960,
+    "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg",
+    "description": "A young girl in the racially charged American South learns about justice and compassion through her father’s defense of a black man accused of a crime.",
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "year": 1949,
+    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+    "description": "A chilling portrayal of a totalitarian regime where Big Brother watches every move and independent thought is a crime.",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "year": 1925,
+    "image": "https://covers.openlibrary.org/b/id/7352162-L.jpg",
+    "description": "A mysterious millionaire’s obsession with a lost love reveals the emptiness behind the glitter of the Jazz Age.",
+    "rating": 4.5
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance/Classic",
+    "year": 1813,
+    "image": "https://covers.openlibrary.org/b/id/8091016-L.jpg",
+    "description": "Elizabeth Bennet navigates love, social expectations, and personal growth in Regency-era England.",
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction/Classic",
+    "year": 1951,
+    "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg",
+    "description": "Holden Caulfield recounts a few turbulent days of teenage rebellion and alienation in New York City.",
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure/Classic",
+    "year": 1851,
+    "image": "https://covers.openlibrary.org/b/id/7222241-L.jpg",
+    "description": "Captain Ahab obsessively hunts the great white whale, exploring themes of revenge, fate, and man versus nature.",
+    "rating": 4.0
+  },
+  {
+    "id": 7,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical",
+    "year": 1869,
+    "image": "https://covers.openlibrary.org/b/id/7222171-L.jpg",
+    "description": "An epic tale of Russian families struggling with love and destiny during the Napoleonic wars.",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": 1937,
+    "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg",
+    "description": "Bilbo Baggins embarks on an unexpected quest with dwarves to reclaim a treasure guarded by a dragon.",
+    "rating": 4.9
+  },
+  {
+    "id": 9,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Psychological",
+    "year": 1866,
+    "image": "https://covers.openlibrary.org/b/id/8100926-L.jpg",
+    "description": "A poor student’s murder of a pawnbroker leads to guilt, paranoia, and philosophical debates on morality.",
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": 1954,
+    "image": "https://covers.openlibrary.org/b/id/8059251-L.jpg",
+    "description": "A fellowship sets out to destroy a powerful ring and defeat the dark lord Sauron in Middle-earth.",
+    "rating": 5.0
+  },
+  {
+    "id": 11,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Adventure/Fable",
+    "year": 1988,
+    "image": "https://covers.openlibrary.org/b/id/8231995-L.jpg",
+    "description": "A young shepherd follows his dream across the desert in search of treasure and self-discovery.",
+    "rating": 4.3
+  },
+  {
+    "id": 12,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "year": 1932,
+    "image": "https://covers.openlibrary.org/b/id/8775125-L.jpg",
+    "description": "A futuristic society engineered for happiness hides the loss of individuality and true freedom.",
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Gothic/Romance",
+    "year": 1847,
+    "image": "https://covers.openlibrary.org/b/id/8085844-L.jpg",
+    "description": "An orphaned governess finds love and independence while uncovering a dark secret at Thornfield Hall.",
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genre": "Satire/Political",
+    "year": 1945,
+    "image": "https://covers.openlibrary.org/b/id/7984916-L.jpg",
+    "description": "Farm animals overthrow their owner only to see power corrupt their ideals in a biting political allegory.",
+    "rating": 4.8
+  },
+  {
+    "id": 15,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Gothic/Romance",
+    "year": 1847,
+    "image": "https://covers.openlibrary.org/b/id/8231849-L.jpg",
+    "description": "A dark tale of passion, revenge, and obsession set on the wild Yorkshire moors.",
+    "rating": 4.5
+  },
+  {
+    "id": 16,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Gothic/Philosophy",
+    "year": 1890,
+    "image": "https://covers.openlibrary.org/b/id/8231993-L.jpg",
+    "description": "A young man remains youthful while his hidden portrait bears the marks of his moral corruption.",
+    "rating": 4.4
+  },
+  {
+    "id": 17,
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "Drama/Historical",
+    "year": 2003,
+    "image": "https://covers.openlibrary.org/b/id/240726-L.jpg",
+    "description": "A moving story of friendship, betrayal, and redemption set against the backdrop of a changing Afghanistan.",
+    "rating": 4.8
+  },
+  {
+    "id": 18,
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "genre": "Adventure",
+    "year": 2001,
+    "image": "https://covers.openlibrary.org/b/id/240727-L.jpg",
+    "description": "A shipwrecked boy survives on a lifeboat with a Bengal tiger, exploring faith and survival.",
+    "rating": 4.5
+  },
+  {
+    "id": 19,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller/Mystery",
+    "year": 2003,
+    "image": "https://covers.openlibrary.org/b/id/8231852-L.jpg",
+    "description": "A symbologist unravels a murder mystery that reveals hidden codes and ancient secrets of the church.",
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "title": "Harry Potter and the Sorcerer’s Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": 1997,
+    "image": "https://covers.openlibrary.org/b/id/7984917-L.jpg",
+    "description": "An orphaned boy discovers he is a wizard and begins his magical education at Hogwarts School.",
+    "rating": 4.9
+  },
+  {
+    "id": 21,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "Historical/Drama",
+    "year": 1862,
+    "image": "https://covers.openlibrary.org/b/id/8166196-L.jpg",
+    "description": "An ex-convict seeks redemption while being pursued by a relentless inspector in revolutionary France.",
+    "rating": 4.7
+  },
+  {
+    "id": 22,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic/Science Fiction",
+    "year": 1818,
+    "image": "https://covers.openlibrary.org/b/id/7984914-L.jpg",
+    "description": "A young scientist’s attempt to create life results in a creature longing for acceptance and revenge.",
+    "rating": 4.6
+  },
+  {
+    "id": 23,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic/Adventure",
+    "year": -700,
+    "image": "https://covers.openlibrary.org/b/id/8274336-L.jpg",
+    "description": "Odysseus faces mythical monsters and divine wrath on his decade-long journey home from Troy.",
+    "rating": 4.8
+  },
+  {
+    "id": 24,
+    "title": "The Iliad",
+    "author": "Homer",
+    "genre": "Epic/War",
+    "year": -750,
+    "image": "https://covers.openlibrary.org/b/id/8274337-L.jpg",
+    "description": "The wrath of Achilles drives this epic of heroism, pride, and tragedy during the Trojan War.",
+    "rating": 4.7
+  },
+  {
+    "id": 25,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror/Gothic",
+    "year": 1897,
+    "image": "https://covers.openlibrary.org/b/id/8231857-L.jpg",
+    "description": "A Transylvanian count spreads terror as a group of friends unite to stop his vampiric reign.",
+    "rating": 4.5
+  },
+  {
+    "id": 26,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "genre": "Adventure/Classic",
+    "year": 1605,
+    "image": "https://covers.openlibrary.org/b/id/8231903-L.jpg",
+    "description": "An aging nobleman sets out as a self-declared knight to revive chivalry, with comic misadventures.",
+    "rating": 4.6
+  },
+  {
+    "id": 27,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical/Drama",
+    "year": 1880,
+    "image": "https://covers.openlibrary.org/b/id/8091017-L.jpg",
+    "description": "A gripping exploration of faith, morality, and free will through the story of a family in conflict.",
+    "rating": 4.9
+  },
+  {
+    "id": 28,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "genre": "Magical Realism",
+    "year": 1967,
+    "image": "https://covers.openlibrary.org/b/id/8231907-L.jpg",
+    "description": "The rise and fall of the Buendía family mirrors a town’s mystical history in a sweeping multigenerational saga.",
+    "rating": 4.8
+  },
+  {
+    "id": 29,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian",
+    "year": 1953,
+    "image": "https://covers.openlibrary.org/b/id/7984918-L.jpg",
+    "description": "In a future where books are banned, a fireman tasked with burning them begins to question his role.",
+    "rating": 4.6
+  },
+  {
+    "id": 30,
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "genre": "Philosophical/Existential",
+    "year": 1942,
+    "image": "https://covers.openlibrary.org/b/id/8231859-L.jpg",
+    "description": "A detached man commits a senseless murder, leading to a trial that examines the absurdity of life.",
+    "rating": 4.4
+  },
+  {
+    "id": 31,
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "genre": "Historical/Romance",
+    "year": 1936,
+    "image": "https://covers.openlibrary.org/b/id/8231996-L.jpg",
+    "description": "A spoiled Southern belle struggles for survival and love during the American Civil War and Reconstruction.",
+    "rating": 4.7
+  },
+  {
+    "id": 32,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Adventure/Revenge",
+    "year": 1844,
+    "image": "https://covers.openlibrary.org/b/id/8231858-L.jpg",
+    "description": "A man wrongly imprisoned escapes to seek justice and vengeance against those who betrayed him.",
+    "rating": 4.9
+  },
+  {
+    "id": 33,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genre": "Historical/Drama",
+    "year": 1859,
+    "image": "https://covers.openlibrary.org/b/id/8231904-L.jpg",
+    "description": "Love, sacrifice, and revolution intertwine in this story set during the French Revolution.",
+    "rating": 4.7
+  },
+  {
+    "id": 34,
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "genre": "Classic/Bildungsroman",
+    "year": 1861,
+    "image": "https://covers.openlibrary.org/b/id/8231905-L.jpg",
+    "description": "An orphan’s journey through social class and personal ambition leads to unexpected revelations.",
+    "rating": 4.6
+  },
+  {
+    "id": 35,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "genre": "Historical/Drama",
+    "year": 1939,
+    "image": "https://covers.openlibrary.org/b/id/8231908-L.jpg",
+    "description": "A poor family migrates west during the Great Depression, facing hardship and seeking dignity.",
+    "rating": 4.5
+  },
+  {
+    "id": 36,
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "genre": "Classic/Modernist",
+    "year": 1926,
+    "image": "https://covers.openlibrary.org/b/id/8231909-L.jpg",
+    "description": "Disillusioned expatriates search for meaning in post–World War I Europe.",
+    "rating": 4.4
+  },
+  {
+    "id": 37,
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "genre": "Satire/War",
+    "year": 1961,
+    "image": "https://covers.openlibrary.org/b/id/8231910-L.jpg",
+    "description": "A darkly comic look at the absurdities of war and bureaucracy during World War II.",
+    "rating": 4.5
+  },
+  {
+    "id": 38,
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "genre": "Historical/Drama",
+    "year": 1987,
+    "image": "https://covers.openlibrary.org/b/id/8231911-L.jpg",
+    "description": "A former enslaved woman is haunted by the ghost of her past in a powerful tale of memory and identity.",
+    "rating": 4.8
+  },
+  {
+    "id": 39,
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Post-Apocalyptic",
+    "year": 2006,
+    "image": "https://covers.openlibrary.org/b/id/8231912-L.jpg",
+    "description": "A father and son traverse a bleak, ash-covered America in search of safety and hope.",
+    "rating": 4.6
+  },
+  {
+    "id": 40,
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "genre": "Children’s/Classic",
+    "year": 1911,
+    "image": "https://covers.openlibrary.org/b/id/8231913-L.jpg",
+    "description": "An orphaned girl discovers a hidden garden that transforms lives with its healing magic.",
+    "rating": 4.5
+  },
+  {
+    "id": 41,
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Children’s/Philosophy",
+    "year": 1943,
+    "image": "https://covers.openlibrary.org/b/id/8231914-L.jpg",
+    "description": "A pilot stranded in the desert meets a young prince from another planet who shares profound truths.",
+    "rating": 4.9
+  },
+  {
+    "id": 42,
+    "title": "Memoirs of a Geisha",
+    "author": "Arthur Golden",
+    "genre": "Historical/Drama",
+    "year": 1997,
+    "image": "https://covers.openlibrary.org/b/id/8231915-L.jpg",
+    "description": "The life of a young girl sold to a geisha house in Kyoto unfolds in a world of beauty and sacrifice.",
+    "rating": 4.7
+  },
+  {
+    "id": 43,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Thriller/Mystery",
+    "year": 2005,
+    "image": "https://covers.openlibrary.org/b/id/8231916-L.jpg",
+    "description": "A journalist and a hacker uncover dark family secrets in a gripping Swedish mystery.",
+    "rating": 4.6
+  },
+  {
+    "id": 44,
+    "title": "Cloud Atlas",
+    "author": "David Mitchell",
+    "genre": "Science Fiction/Drama",
+    "year": 2004,
+    "image": "https://covers.openlibrary.org/b/id/8231917-L.jpg",
+    "description": "Interwoven stories across centuries reveal how actions ripple through time.",
+    "rating": 4.5
+  },
+  {
+    "id": 45,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical/Young Adult",
+    "year": 2005,
+    "image": "https://covers.openlibrary.org/b/id/8231918-L.jpg",
+    "description": "In Nazi Germany, a young girl finds solace in stolen books while Death narrates her journey.",
+    "rating": 4.9
+  }
+]
