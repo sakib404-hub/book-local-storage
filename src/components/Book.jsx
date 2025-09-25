@@ -4,7 +4,7 @@ import './Books.css'
 const Book = ({ book, handleCart }) => {
     const imgLink = book.image;
     const imgAlt = book.description;
-    console.log(book)
+    // console.log(book)
     return (
         <div className='card'>
             <div className='imageCard'>
@@ -14,7 +14,7 @@ const Book = ({ book, handleCart }) => {
             <p> <span>Author</span>  : {book.author}</p>
             <p> <span>Genre</span>  : {book.genre}</p>
             <p> <span>Year</span>  : {book.year}</p>
-            <button onClick={handleCart}>Buy Now</button>
+            <button onClick={() => { handleCart(book) }}>Buy Now</button>
         </div>
     );
 };
